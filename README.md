@@ -103,8 +103,8 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 
 <p align="center">
   <a href="mailto:mumtaztaimoor6@gmail.com"><img src="https://img.shields.io/badge/Email-mumtaztaimoor6%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/taimoor-mumtaz-4636b2231/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/taimoor0"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/taimoor-mumtaz-4636b2231/"><img src="https://img.shields.io/badge/LinkedIn-taimoormumtaz?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/taimoor0"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
