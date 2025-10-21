@@ -58,17 +58,17 @@
 
 ### 💼 Experience
 
-**🧩 Cyber Axes** — _Team Lead, Backend Engineer_
-📍 _Nov 2023 – Oct 2025 | Islamabad_
+**🧩 Cyber Axes** — _Team Lead, Backend Engineer_  
+📍 _Nov 2023 – Oct 2025 | Islamabad_  
 Affiliation: University of Debrecen South Asia Regional Office (Hungary)
 
-#### 🧑‍🎓 **Product:** EduApply (Education Platform)
+##### 🧑‍🎓 **Product:** EduApply (Education Platform)
 
 > International education ecosystem platform streamlining student applications and enrollment.
 
 **Tech Stack:** `Python`, `Django`, `DRF`, `Redis`, `Celery`, `AWS (S3, SQS)`, `Stripe`, `Pytest`, `MySQL`, `Docker`, `Git`
 
-**🧠 Alright Tech Pvt. Ltd.** — _Backend Developer Intern_
+**🧠 Alright Tech Pvt. Ltd.** — _Backend Developer Intern_  
 📍 _Aug 2023 – Oct 2023 | Rawalpindi_
 
 #### 💈 **Product:** Beard Friends (E-commerce)
@@ -81,7 +81,7 @@ Affiliation: University of Debrecen South Asia Regional Office (Hungary)
 
 ### 🎓 Education
 
-**Bachelor of Software Engineering** — _2019 – 2023_
+**Bachelor of Software Engineering** — _2019 – 2023_  
 _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 
 ---
