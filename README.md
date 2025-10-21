@@ -1,6 +1,12 @@
 <!-- Profile Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Taimoor+Mumtaz!;Backend+Engineer+%7C+Team+Lead+%7C+Python+Django+Developer;I+build+scalable,+secure,+and+high-performance+systems." alt="Typing Animation" />
+</p> -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Taimoor+Mumtaz!;Backend+Engineer+%7C+Team+Lead+%7C+Python+Django+Developer;I+build+scalable,+secure,+and+high-performance+systems." 
+    alt="Typing Animation" 
+  />
 </p>
 
 ---
