@@ -93,7 +93,7 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Live+Coding+Journey+in+Progress...💻" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=My+Coding+Journey+in+Progress...💻" 
     alt="Typing Animation"
   />
 </p>
@@ -136,17 +136,3 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=taimoor0&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:mumtaztaimoor6@gmail.com"><img src="https://img.shields.io/badge/Email-mumtaztaimoor6%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/taimoor-mumtaz-4636b2231/"><img src="https://img.shields.io/badge/LinkedIn-taimoormumtaz?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/taimoor0"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz?style=for-the-badge&logo=github" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-⭐ **"Clean architecture, scalable systems, and teamwork — that's my code philosophy."**
