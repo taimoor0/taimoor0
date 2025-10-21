@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 Summary
 
 💡 Passionate about building **scalable backend systems** and leading teams to deliver impactful products.  
 💻 Skilled in **Python, Django, DRF, FastAPI,** and **cloud deployment with AWS & Docker.**  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Skills
 
 #### **Languages & Frameworks**
 
@@ -56,59 +56,32 @@
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-**🧩 Cyber Axes** — _Team Lead, Backend Engineer_  
-📍 _Nov 2023 – Present | Islamabad_  
-Affiliation: University of Debrecen South Asia Regional Office (Hungary)  
-**Product:** EduApply (Education Platform)
+**🧩 Cyber Axes** — _Team Lead, Backend Engineer_
+📍 _Nov 2023 – Oct 2025 | Islamabad_
+Affiliation: University of Debrecen South Asia Regional Office (Hungary)
 
-- Led backend team from project initiation to deployment, ensuring scalability and security.
-- Architected backend systems, optimized performance, and managed AWS infrastructure.
-- Conducted code reviews, mentored developers, and enforced best practices.
-- Collaborated with frontend and QA teams for timely releases.
-
-**🧠 Alright Tech Pvt. Ltd.** — _Backend Developer Intern_  
-📍 _Aug 2023 – Oct 2023 | Rawalpindi_  
-**Product:** Beard Friends (E-commerce)
-
-- Built REST APIs using Node.js, Express.js, and MongoDB.
-- Designed system and database architecture for performance and scalability.
-
----
-
-### 🧩 Featured Projects
-
-#### 🧑‍🎓 **EduApply**
+#### 🧑‍🎓 **Product:** EduApply (Education Platform)
 
 > International education ecosystem platform streamlining student applications and enrollment.
 
-**Tech Stack:** `Python`, `Django`, `DRF`, `Redis`, `Celery`, `AWS (S3, SQS)`, `Stripe`, `Pytest`, `MySQL`, `Docker`, `Git`  
-**Highlights:**
+**Tech Stack:** `Python`, `Django`, `DRF`, `Redis`, `Celery`, `AWS (S3, SQS)`, `Stripe`, `Pytest`, `MySQL`, `Docker`, `Git`
 
-- Architected backend using OOP and SOLID principles.
-- Built secure REST APIs and real-time features with WebSockets + Redis.
-- Integrated AWS (S3 for storage, SQS for async processing).
-- Developed Stripe payment integration with custom webhooks.
-- Improved performance using caching and optimized queries.
-- Led backend team ensuring high-quality delivery and CI/CD deployment.
+**🧠 Alright Tech Pvt. Ltd.** — _Backend Developer Intern_
+📍 _Aug 2023 – Oct 2023 | Rawalpindi_
 
-#### 💈 **Beard Friends**
+#### 💈 **Product:** Beard Friends (E-commerce)
 
 > Barber-booking and retail management platform for salons and customers.
 
-**Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `Git`  
-**Highlights:**
-
-- Built modular REST APIs for booking, ordering, and authentication.
-- Designed efficient MongoDB schemas and validation logic.
-- Implemented role-based access and secure order workflows.
+**Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `Git`
 
 ---
 
 ### 🎓 Education
 
-**Bachelor of Software Engineering** — _2019 – 2023_  
+**Bachelor of Software Engineering** — _2019 – 2023_
 _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 
 ---
@@ -130,8 +103,8 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 
 <p align="center">
   <a href="mailto:mumtaztaimoor6@gmail.com"><img src="https://img.shields.io/badge/Email-mumtaztaimoor6%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/taimoor-mumtaz-4636b2231/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/taimoor0"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
