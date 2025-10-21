@@ -1,53 +1,145 @@
-![logo](https://github.com/taimoor0/taimoor0/blob/main/GitHub-Cover.png)
-
-# Hi there! 👋 I'm Taimoor Mumtaz, a Software Engineer
-
-<h3 align="center">Passionate about <span style="color: #FFD700;">Full-Stack Web Development</span> | Based in Pakistan</h3>
-
-<img align="right" alt="coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=taimoor0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Taimoor+Mumtaz!;Backend+Engineer+%7C+Team+Lead+%7C+Python+Django+Developer;I+build+scalable,+secure,+and+high-performance+systems." alt="Typing Animation" />
 </p>
 
-- 🌱 Currently working as a **Full-Stack Web Developer**
+---
 
-- 💬 Ask me about **JavaScript, MERN Stack, Python, Django**
+### 🧠 About Me
 
-- 📫 Reach me at **mumtaztaimoor6@gmail.com**
+💡 Passionate about building **scalable backend systems** and leading teams to deliver impactful products.  
+💻 Skilled in **Python, Django, DRF, FastAPI,** and **cloud deployment with AWS & Docker.**  
+⚙️ Focused on clean architecture, performance optimization, and maintainability.  
+🤝 I enjoy collaborating, mentoring, and solving complex system design problems.
 
-- ⚡ Fun fact: **I'm a funny and caring person 😂🥰🧡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/taimoormumtaz12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/linkedin.com/in/taimoor-mumtaz-4636b2231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/taimoor.rana.5203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/taimoorrana.1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+---
+
+### 🧰 Tech Stack
+
+#### **Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### **Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+#### **Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### **APIs & Real-Time**
+
+`REST` • `GraphQL` • `WebSockets` • `Celery` • `Django Q` • `Django Channels` • `Webhooks (Stripe & Custom)`
+
+#### **Testing & Security**
+
+`TDD` • `Pytest` • `Django Test Framework` • `Postman` • `JWT` • `OAuth2` • `SSL/TLS`
+
+---
+
+### 💼 Professional Experience
+
+**🧩 Cyber Axes** — _Team Lead, Backend Engineer_  
+📍 _Nov 2023 – Present | Islamabad_  
+Affiliation: University of Debrecen South Asia Regional Office (Hungary)  
+**Product:** EduApply (Education Platform)
+
+- Led backend team from project initiation to deployment, ensuring scalability and security.
+- Architected backend systems, optimized performance, and managed AWS infrastructure.
+- Conducted code reviews, mentored developers, and enforced best practices.
+- Collaborated with frontend and QA teams for timely releases.
+
+**🧠 Alright Tech Pvt. Ltd.** — _Backend Developer Intern_  
+📍 _Aug 2023 – Oct 2023 | Rawalpindi_  
+**Product:** Beard Friends (E-commerce)
+
+- Built REST APIs using Node.js, Express.js, and MongoDB.
+- Designed system and database architecture for performance and scalability.
+
+---
+
+### 🧩 Featured Projects
+
+#### 🧑‍🎓 **EduApply**
+
+> International education ecosystem platform streamlining student applications and enrollment.
+
+**Tech Stack:** `Python`, `Django`, `DRF`, `Redis`, `Celery`, `AWS (S3, SQS)`, `Stripe`, `Pytest`, `MySQL`, `Docker`, `Git`  
+**Highlights:**
+
+- Architected backend using OOP and SOLID principles.
+- Built secure REST APIs and real-time features with WebSockets + Redis.
+- Integrated AWS (S3 for storage, SQS for async processing).
+- Developed Stripe payment integration with custom webhooks.
+- Improved performance using caching and optimized queries.
+- Led backend team ensuring high-quality delivery and CI/CD deployment.
+
+#### 💈 **Beard Friends**
+
+> Barber-booking and retail management platform for salons and customers.
+
+**Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `Git`  
+**Highlights:**
+
+- Built modular REST APIs for booking, ordering, and authentication.
+- Designed efficient MongoDB schemas and validation logic.
+- Implemented role-based access and secure order workflows.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Software Engineering** — _2019 – 2023_  
+_Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor0&show_icons=true&locale=en" alt="GitHub Stats" />
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:mumtaztaimoor6@gmail.com"><img src="https://img.shields.io/badge/Email-mumtaztaimoor6%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz-black?style=for-the-badge&logo=github" /></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor0&" alt="GitHub Streak" />
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
+---
+
+⭐ **"Clean architecture, scalable systems, and teamwork — that's my code philosophy."**
