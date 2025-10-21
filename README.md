@@ -6,7 +6,7 @@
   />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🧠 Summary
 
@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🧰 Skills
 
@@ -57,7 +57,7 @@
 
 `TDD` • `Pytest` • `Django Test Framework` • `Postman` • `JWT` • `OAuth2` • `SSL/TLS`
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 💼 Experience
 
@@ -80,14 +80,14 @@ Affiliation: University of Debrecen South Asia Regional Office (Hungary)
 
 **Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `Git`
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🎓 Education
 
 **Bachelor of Software Engineering** — _2019 – 2023_  
 _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 📊 GitHub Stats
 
@@ -129,7 +129,7 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
   <img src="https://github-profile-trophy.vercel.app/?username=taimoor0&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🤝 Let's Connect
 
@@ -139,6 +139,6 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
   <a href="https://github.com/taimoor0"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz?style=for-the-badge&logo=github" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ⭐ **"Clean architecture, scalable systems, and teamwork — that's my code philosophy."**
