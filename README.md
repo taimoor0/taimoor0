@@ -105,6 +105,14 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
   />
 </p>
 
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor0&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=6"
+    alt="Top Languages"
+    width="50%"
+  />
+</p> -->
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=taimoor0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=15" 
