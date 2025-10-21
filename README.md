@@ -92,16 +92,41 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taimoor0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Live+Coding+Journey+in+Progress...💻" 
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="">
+  <img 
+    src="https://komarev.com/ghpvc/?username=taimoor0&label=Profile%20Views&color=00BFFF&style=flat-square" 
+    alt="Profile Views Counter" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoor0&show_icons=true&theme=tokyonight&count_private=true" alt="Taimoor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor0&theme=tokyonight" alt="Taimoor's GitHub Streak" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=taimoor0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=15" 
+    alt="Taimoor's GitHub Stats" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor0&theme=tokyonight&hide_border=true&border_radius=15" 
+    alt="Taimoor's GitHub Streak" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoor0&theme=tokyo-night" alt="Taimoor's Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=taimoor0&theme=tokyo-night&hide_border=true&area=true&radius=10" 
+    alt="Taimoor's GitHub Activity Graph" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taimoor0&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -112,12 +137,6 @@ _Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR), Rawalpindi_
   <a href="mailto:mumtaztaimoor6@gmail.com"><img src="https://img.shields.io/badge/Email-mumtaztaimoor6%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/taimoor-mumtaz-4636b2231/"><img src="https://img.shields.io/badge/LinkedIn-taimoormumtaz?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/taimoor0"><img src="https://img.shields.io/badge/GitHub-taimoormumtaz?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taimoor0&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
